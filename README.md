@@ -1,2 +1,2 @@
-# Python-Practice-Basic-to-Advanced-
-A comprehensive Python practice repository covering basic to advanced concepts with practical questions, and mini projects.
+# Python-Practice
+Python practice repository covering basic concepts with practical questions, and mini projects.
